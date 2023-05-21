@@ -66,7 +66,7 @@ Long Name Column (Before Transformation)     |  Long Name Column (After Transfor
 ![](Long_Name_Excel.png)                     |  ![](Long_Name_and_Name_Power_Query.png)
 
 - Next was; CTRL + A, then on the Transform menu; Format and Clean to keep the combined data clean. 
-- Split the Contract column into Contract Start and Contract End columns, using “Split by Delimiter” function. Some columns (like the Club column) contained data that appearead to be hidden at the start (hence the empty cells at the intial stage). Over the course of making adjustments to the dataset, these values began to show up as the cells become filled. For this reason, the best practice was to complete the data cleaning and transformation before hiding or deleting any empty or irrelevant columns, so as not to lose vital information.
+- Split the Contract column into Contract Start and Contract End columns, using “Split by Delimiter” function. Some columns (like the Club column) contained data that appearead to be hidden at the start (hence the empty cells at the intial stage). Over the course of making adjustments to the dataset, these values began to show up as the cells became filled. For this reason, the best practice was to complete the data cleaning and transformation before hiding or deleting any empty or irrelevant columns, so as not to lose vital information.
 
 Contract Column (Before Transformation)                |  Contract Column (After Transformation)
 :----------------------------------------------------: | :---------------------------------:
